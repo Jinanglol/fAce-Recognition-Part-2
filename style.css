@@ -1,0 +1,14 @@
+body{
+    background-color: lightsteelblue;
+    color: ghostwhite;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    font-family: monospace;
+    color: gold;
+}
+.object_names{
+    color: purple;
+    font-family: cursive;
+}
